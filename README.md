@@ -17,9 +17,9 @@ The basic structure has been written using HTML on ATOM,the subsequent informati
 ## Contact information
 you can contact me on "jamesgathuru001@gmail.com".
 ## Setup/Installation Requirements
-Clone this repositoty to your desktop and open it with your terminal and open the file with Atom. 
+Clone this repositoty to your desktop and open it with your terminal and open the file with Atom. You can git clone  https://github.com/jamesgathuru001/triangle-tracker.git
 ## Online link to live site
-https://jamesgathuru001.github.io/James-Gathuru-my-portfolio-/
+
 ### License
 *MIT licence*
 Copyright (c) 2019 **jamesgathuru001**
