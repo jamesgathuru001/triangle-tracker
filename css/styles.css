@@ -68,3 +68,13 @@ h2 {
   font-family: sans-serif;
   font-style: italic;
 }
+.ee {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: orange;
+  text-indent: inherit;
+  font-size: 100%;
+  font-family: sans-serif;
+  font-style: italic;
+}
