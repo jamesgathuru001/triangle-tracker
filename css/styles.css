@@ -2,8 +2,28 @@ h1 {
   color:red;
   text-align: center;
 }
+h2 {
+  text-align: center;
+}
 .y {
   color: red;
   text-align: center;
   text-decoration: underline;
+}
+.e{
+  border: 2px solid blue;
+  padding: 6px;
+  margin: 20px;
+  background-color: grey;
+}
+.img {
+  float: right;
+}
+.equi {
+  text-decoration: underline;
+  font-size: 300%
+  font-style: italic;
+}
+.t {
+  float: right;
 }
