@@ -18,7 +18,7 @@ h2 {
   background-color: yellow;
 }
 .img {
-  float: right;
+  float: left;
 }
 .equi {
   text-decoration: underline;
@@ -50,6 +50,21 @@ h2 {
 .w {
   text-indent: inherit;
   font-size: 200%;
+  font-family: sans-serif;
+  font-style: italic;
+}
+.rr {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: white;
+}.pp {
+  border: 2px solid green;
+  padding: 6px;
+  margin: 20px;
+  background-color: white;
+  text-indent: inherit;
+  font-size: 100%;
   font-family: sans-serif;
   font-style: italic;
 }
