@@ -10,6 +10,8 @@ For an equilateral triangle, all sides must be equal.
 For an isosceles triangle, two sides are exactly equal.
 For a scalene triangle, none of the sides is equal. However, the sum of any two sides of the triangle must be greater than the third side.
 Most importantly, if the sum of any two sides of the triangle is equal to or less than the third remaining side, then a triangle CANNOT be formed using those values. (For example, the values 9,4 & 3 cannot form a triangle.)
+## BDD
+(Behavior-Driven Development)The project incorporates behaviour inorder to cater for the users needs.
 ## Known Bugs
 No known bugs
 ## Technologies Used
