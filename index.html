@@ -2,6 +2,7 @@
 <html>
   <head>
 
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
     <div class="y">
     <title><h1 style="font-size:60px;">Triangle Tracker</h1></title>
     </div>
@@ -33,12 +34,11 @@
 
     </style>
 
-    <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link href="track.js" rel="javascript" type="code">
 
   </head>
 
-  <body style="background-color: lightgray;">
+  <body background="images/y.jpg">
 
     <a href="triangles.html" style=font-size:30px;>More</a>
     <a href="track.js"></a>
@@ -56,7 +56,28 @@
       <p>By just a click of a button and input of dimensions you can know what type the type of a Triangle</p>
       <P>Click the button below and input the dimensions</p>
       <p>ENJOY</p>
-      <p>For more information about triangles press the <span style="font-size:25px;" "font-style:italic;">more</span> button at the top of the page
+      <p>For more information about triangles press the <span style="font-size:25px;" "font-style:italic;">more</span> button at the top of the page</p>
+      <div class="form">
+      <form id="form">
+
+        <p>
+          Length 1 : <input type="text" id="length1"></input>
+          <br>
+          Length 2 : <input type="text" id="length2"></input>
+          <br>
+          Length 3 : <input type="text" id="length3"></input>
+          <br>
+
+          <div class="form-wrapper" <button type="button" onclick="triangle()">SUBMIT</button>
+          </div>
+          <br>
+          <input type="reset" value="RESET">
+        </p>
+      </form>
+      <p id="output"></p>
+
+    </div>
+
         <script src="track.js"></script>
   </body>
 </html>
